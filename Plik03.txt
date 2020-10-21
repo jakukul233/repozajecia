@@ -1,0 +1,9 @@
+Zmian0b
+naprawa b³êdów - hotFix-001
+oraz
+Dodano asystenta pomocy
+Uproszczenie interfejsu graficznego
+easierApp
+Zmiana08
+Zmiana09
+Zmiana10
